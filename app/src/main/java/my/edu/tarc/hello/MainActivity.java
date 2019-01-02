@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         textViewMessage.setText("Hello Ryan");
         //This is a comment
         //Fuck you bij
+        //Lelllll
     }
 
     public void showMessage(View view){
