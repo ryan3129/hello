@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         textViewMessage = findViewById(R.id.textViewMessage);
         textViewMessage.setText("Hello Ryan");
+        //This is a comment
     }
 
     public void showMessage(View view){
